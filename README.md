@@ -28,10 +28,21 @@ By now, I'm working as a Java Consultant Engineer at a fintech called Flexpag in
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mobile-Flutter-informational?style=flat&logoColor=white&color=2bbc8a)
-
-
----
-
+<!--
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?logo=java&logoColor=white&style=for-the-badge" />
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-61DAFB?logo=angular&logoColor=white&style=for-the-badge" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-764ABC?logo=spring&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-4FC08D?logo=AWS&logoColor=white&style=for-the-badge" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF?logo=flask&logoColor=black&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+</p>
+-->
 
 ### Studying on
 
