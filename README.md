@@ -2,7 +2,8 @@
 
 ### Who am I?
 
-My name is Bruno Brito, i'm 30 years old and I'm from Pernambuco in Brazil.
+My name is Bruno Brito and I'm from Pernambuco in Brazil.
+
 I started my career in 2009 as a Java Web Developer. 
 I am currently a Software Engineer Manager, Techlead and Fullstack developer for web applications. 
 
