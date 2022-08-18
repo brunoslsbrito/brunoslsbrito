@@ -9,7 +9,7 @@ I am currently a Software Engineer Manager, Techlead and Fullstack developer for
 
 ### Working on
 
-By now, I'm working as a Java Consultant Engineer at a fintech called Flexpag in Recife and Business Analyst at Ília Culture in Brasília.
+By now, I'm working a IT Engineer Lead at Livelo SA.
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
