@@ -9,7 +9,7 @@ I am currently a Software Engineer Manager, Techlead and Fullstack developer for
 
 ### Working on
 
-By now, I'm working a IT Engineer Lead at Livelo SA.
+By now, I'm working an IT Coordinator at Livelo SA.
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
